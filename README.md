@@ -43,4 +43,4 @@ restricciones, y los valores de fuerzas aplicadas como la gravedad.
 -Los usuarios pueden interactuar con la simulación arrastrando partículas, pausando la simulación, y
 ajustando parámetros como la gravedad y las dimensiones de la tela.
 -Estos controles permiten al usuario experimentar con diferentes comportamientos físicos y observar
-cómo la tela responde a varias condiciones y fuerzas
+cómo la tela responde a varias condiciones y fuerzas.
