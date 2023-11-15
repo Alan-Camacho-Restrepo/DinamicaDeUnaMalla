@@ -40,6 +40,7 @@ partículas como cuadrados.
 restricciones, y los valores de fuerzas aplicadas como la gravedad.
 
 6. Interactividad y Control del Usuario:
+   
 -Los usuarios pueden interactuar con la simulación arrastrando partículas, pausando la simulación, y
 ajustando parámetros como la gravedad y las dimensiones de la tela.
 -Estos controles permiten al usuario experimentar con diferentes comportamientos físicos y observar
